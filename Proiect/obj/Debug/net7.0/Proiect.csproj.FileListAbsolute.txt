@@ -1,0 +1,14 @@
+/Users/danavidroiu/Projects/Proiect/Proiect/bin/Debug/net7.0/Proiect
+/Users/danavidroiu/Projects/Proiect/Proiect/bin/Debug/net7.0/Proiect.deps.json
+/Users/danavidroiu/Projects/Proiect/Proiect/bin/Debug/net7.0/Proiect.runtimeconfig.json
+/Users/danavidroiu/Projects/Proiect/Proiect/bin/Debug/net7.0/Proiect.dll
+/Users/danavidroiu/Projects/Proiect/Proiect/bin/Debug/net7.0/Proiect.pdb
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.AssemblyInfoInputs.cache
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.AssemblyInfo.cs
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.csproj.CoreCompileInputs.cache
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.dll
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/refint/Proiect.dll
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.pdb
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/Proiect.genruntimeconfig.cache
+/Users/danavidroiu/Projects/Proiect/Proiect/obj/Debug/net7.0/ref/Proiect.dll
